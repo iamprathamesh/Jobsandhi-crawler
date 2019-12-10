@@ -1,0 +1,22 @@
+URL - jobsandhi.com/members/downloadresume/247128
+RequestType - GET
+
+Request headers:
+
+cookie: _ga=GA1.2.1562224980.1575812801; _gid=GA1.2.1305444717.1575812801; wl_session=WCb5qBaJ1rFmnMD%2Bxib0dPDYPm3UDpj%2FyYEIdF%2FrihFOdGHEYxiyTr9JUraeC4u6PDmjE82%2B3%2FZOFHtbkF3lugbR9bI%2BE6x70k5zVcPlobXFo%2FmXBh7Qw%2BvNfDpsCCJh5YXbeVYYcsXJeQ1mjUFf8QqDNVsSC9fQ7oV5poAxAOTJbuHdPRO2jrlhvtCQditXOyqRGWcslzHtm4Ff71YPoB%2BgOQbHOYoepMUK4RArMmaM62OH5kRj0%2B5MWQ4gkz4cNUNuemB7lk9N%2BjALq2oZo1dJlHjEVdh714cyjLYWMHcBQPhwZlTDpSRDxEdtuUh%2F8geyk8R0Llq%2BVGgLAvphvvRscnvYZ8PvUXND3WxJiR4lDTygazmU8o5AKWxtbUXaWV%2BvMWOzh6pKvQCBFOgJk4l8moCXVZn%2F3PWaVjhF9ck%3D
+
+accept-language: en-US,en;q=0.9
+
+referer: https://www.jobsandhi.com/members/searchresult
+
+sec-fetch-mode: navigate
+
+sec-fetch-site: same-origin
+
+sec-fetch-user: ?1
+
+upgrade-insecure-requests: 1
+
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
